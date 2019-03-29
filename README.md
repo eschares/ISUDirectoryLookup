@@ -4,7 +4,7 @@ Heather Lewin
 Eric Schares
 3/28/19
 
-CSV file must have full name in first column, for example, Abdalla, Ahmed or Ahmed Abdalla
+CSV file must have full name in first column, for example, Last, First or First Last.
 Column must be named "Name"
 Other information can be present, will be echoed out to output file
 
