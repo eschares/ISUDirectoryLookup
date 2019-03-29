@@ -1,15 +1,18 @@
 #Use the online ISU Directory to look up ISU emails when given name
+#Heather Lewin
+#Eric Schares
+#3/28/19
 #
 #Use Python module mechanize to interact with web forms
 #Take list of authors
 #Read in csv file
 #pass author name to mechanize webform "individuals" field and submit
-#Save off HTML output as .txt file
+#Get resulting URL
+#Multiple person result has "search" in URL
 #For single person result, email appears as eschares (at) iastate (dot) edu
-#Run through output file to look for "mailto:\' + ([\'eschares\', \'iastate.edu\']
-#or (at) - email address
+#Run through output file to look for <noscript><div>, pull netid
 
-import csv               #open csv input files
+import csv          #open csv input files
 import mechanize    #create browswer instance
 import re           #be able to search
 import os           #be able to delete files

@@ -1,0 +1,6 @@
+"Abdalla, Ahmed"	" Iowa State Univ, Dept Biomed Sci, Ames, IA 50011 USA"	" Iowa State Univ, Dept Biomed Sci, Ames, IA 50011 USA"	Biomedical Science
+"Abdelkhalik, Ossama"	" Iowa State Univ, Ames, IA USA"	" Iowa State Univ, Ames, IA USA"	Ames
+"Abdualla, Hesham"	" Iowa State Univ, 24 Town Engn Bldg, Ames, IA 50011 USA"	" Iowa State Univ, 24 Town Engn Bldg, Ames, IA 50011 USA"	24 Town Engn Bldg
+"Abongwa, Melanie"	" Iowa State Univ, Coll Vet Med, Dept Biomed Sci, Ames, IA 50011 USA"	" Iowa State Univ, Coll Vet Med, Dept Biomed Sci, Ames, IA 50011 USA"	Veterinary Medicine
+"Aboobucker, Siddique I."	" Iowa State Univ, Dept Agron, Ames, IA 50011 USA"	" Iowa State Univ, Dept Agron, Ames, IA 50011 USA"	Agronomy
+"O'Donnell, Megan"	" Iowa State Univ, Library, Ames, IA 50011 USA"	" Iowa State Univ, Library, Ames, IA 50011 USA"	Library
