@@ -16,4 +16,4 @@ pass author name to mechanize webform "individuals" field and submit
 Get resulting URL
 Multiple person result has "search" in URL
 For single person result, email appears as eschares (at) iastate (dot) edu
-Run through output file to look for <noscript><div>, pull netid
+Run through output file to look for "<noscript><div>", pull netid
